@@ -27,7 +27,7 @@ This performs: data harmonization → IV selection → MR analysis → sensitivi
 Project Structure
   scripts/          # R analysis scripts
   data/             # Processed datasets (not included, see Data Availability)
-  results/          # Output tables and figures
+  results/          # Output tables and figures (see our article =)
   config/           # Analysis parameters (p-value thresholds, LD clumping settings)
 Key Outputs
 The code generates:
