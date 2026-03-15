@@ -43,7 +43,7 @@ Please see the published article's Data Availability Statement for the final DOI
 
 Citation
 If you use this code or findings, please cite our publication:
-[Your Paper Title]. [Journal Name]. [Year]. DOI: [Your DOI]
+not yet [Paper Title]. [Journal Name]. [Year]. DOI: [DOI]
 
 Contact
 For questions regarding the analysis, please open an issue on GitHub or contact the corresponding author.
