@@ -1,0 +1,5 @@
+LD clumping R2 : 0.01 or 0.001
+LD clumping window： 10000 kd
+p value ： 0.05
+
+if any other question， leave your question as comments, thanks
